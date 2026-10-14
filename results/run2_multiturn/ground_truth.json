@@ -1,0 +1,7 @@
+{
+  "captured_at_utc": "2026-08-14T06:35:21.149653+00:00",
+  "docker_container_count": "75",
+  "disk_free_root": "/dev/sda1       226G  184G   33G  85% /",
+  "memory_free": "Mem:            30Gi        23Gi       752Mi       287Mi       7.3Gi       7.0Gi",
+  "watchdog_last_log_line": "2026-08-14 06:34:05 [watchdog.monitor] INFO: Check complete: 25 OK, 0 failing"
+}
